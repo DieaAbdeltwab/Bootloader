@@ -1,0 +1,14 @@
+../Src/USART_program.c:46:9:MUSART_u8SetConfiguration	64	static
+../Src/USART_program.c:135:9:MUSART_u8UsartStatus	24	static
+../Src/USART_program.c:165:10:MUSART_u8ReceiveCharSynch	24	static
+../Src/USART_program.c:195:10:MUSART_u8ReceiveStringSynch	24	static
+../Src/USART_program.c:230:10:MUSART_u8ReceiveArraySynch	24	static
+../Src/USART_program.c:262:10:MUSART_u8TransmitCharSynch	24	static
+../Src/USART_program.c:291:11:MUSART_u8TransmitStringSynch	24	static
+../Src/USART_program.c:322:11:MUSART_u8TransmitArraySynch	24	static
+../Src/USART_program.c:353:13:MUSART_u32GetDRAddress	16	static
+../Src/USART_program.c:369:8:MUSART_voidClearFlags	16	static
+../Src/USART_program.c:386:10:MUSART_u8ReceiveCharNonSynch	24	static
+../Src/USART_program.c:403:6:USART1_IRQHandler	8	static
+../Src/USART_program.c:412:6:USART2_IRQHandler	8	static
+../Src/USART_program.c:421:6:USART3_IRQHandler	8	static

@@ -1,0 +1,5 @@
+../Src/PRELOADER_program.c:64:6:SPRELOADER_voidSwitch	16	static
+../Src/PRELOADER_program.c:86:14:voidGOToBootloader	264	static
+../Src/PRELOADER_program.c:115:14:voidJumpToUserApp	32	static,ignoring_inline_asm
+../Src/PRELOADER_program.c:128:14:voidJumpToUserApp_1	24	static,ignoring_inline_asm
+../Src/PRELOADER_program.c:140:14:voidJumpToUserApp_2	24	static,ignoring_inline_asm

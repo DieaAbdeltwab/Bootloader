@@ -1,0 +1,15 @@
+../Src/RCC_program.c:44:11:MRCC_u8SetClockState	24	static
+../Src/RCC_program.c:131:11:MRCC_u8HSEClockBypassConfiguration	24	static
+../Src/RCC_program.c:160:9:MRCC_u8ClockSecurityState	24	static
+../Src/RCC_program.c:186:11:MRCC_u8SetSystemClock	24	static
+../Src/RCC_program.c:214:11:MRCC_u8AHBClockPrescalerConfiguration	24	static
+../Src/RCC_program.c:243:11:MRCC_u8APBClockPrescalerConfiguration	24	static
+../Src/RCC_program.c:280:11:MRCC_u8PLLDivFactorConfiguration	24	static
+../Src/RCC_program.c:322:11:MRCC_u8PLLNMulFactorConfiguration	24	static
+../Src/RCC_program.c:350:11:MRCC_u8PLLInputConfiguration	24	static
+../Src/RCC_program.c:379:11:MRCC_u8PeripheralsClockState	24	static
+../Src/RCC_program.c:424:11:MRCC_u8AHB1PeripheralsClockState	24	static
+../Src/RCC_program.c:451:11:MRCC_u8AHB2PeripheralsClockState	24	static
+../Src/RCC_program.c:478:11:MRCC_u8AHB3PeripheralsClockState	24	static
+../Src/RCC_program.c:505:11:MRCC_u8APB1PeripheralsClockState	24	static
+../Src/RCC_program.c:533:11:MRCC_u8APB2PeripheralsClockState	24	static

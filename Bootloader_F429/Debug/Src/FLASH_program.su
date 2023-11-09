@@ -1,0 +1,17 @@
+../Src/FLASH_program.c:55:6:MFLASH_voidUnlock	4	static
+../Src/FLASH_program.c:77:6:MFLASH_voidLock	4	static
+../Src/FLASH_program.c:95:9:MFLASH_u8Erase	24	static
+../Src/FLASH_program.c:136:9:MFLASH_u8WriteProgram	32	static
+../Src/FLASH_program.c:178:9:MFLASH_u8WriteProtection	24	static
+../Src/FLASH_program.c:217:9:MFLASH_u8MaskAllSectorsWriteProtection	24	static
+../Src/FLASH_program.c:253:9:MFLASH_u8RemoveWriteProtection	24	static
+../Src/FLASH_program.c:290:9:MFLASH_u8RemoveAllSectorsWriteProtection	24	static
+../Src/FLASH_program.c:326:10:MFLASH_u8ReadSectorsWriteProtection	24	static
+../Src/FLASH_program.c:355:6:MFLASH_voidOptionBytesUnlock	4	static
+../Src/FLASH_program.c:374:6:MFLASH_voidOptionBytesLock	4	static
+../Src/FLASH_program.c:383:13:voidProgramDoubleWord	24	static
+../Src/FLASH_program.c:397:13:voidProgramWord	16	static
+../Src/FLASH_program.c:407:13:voidProgramHalfWord	16	static
+../Src/FLASH_program.c:417:13:voidProgramByte	16	static
+../Src/FLASH_program.c:427:13:voidMassErase	16	static
+../Src/FLASH_program.c:435:13:voidEraseSector	24	static

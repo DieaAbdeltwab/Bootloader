@@ -1,0 +1,2 @@
+../Src/CRC_program.c:47:10:MCRC_u32Accumulate	24	static
+../Src/CRC_program.c:69:6:MCRC_voidDRreset	4	static

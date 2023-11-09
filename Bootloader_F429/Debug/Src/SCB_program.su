@@ -1,0 +1,2 @@
+../Src/SCB_program.c:45:11:MSCB_u8InterruptPriority	24	static
+../Src/SCB_program.c:73:11:MSCB_u8VectorTableAddress	24	static
